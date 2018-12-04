@@ -7,4 +7,5 @@ These are the exercises I solved on Exercism.
 * [Two fer](https://github.com/ChocolatineMathou/exercism-kotlin/tree/master/two-fer)
 * [Leap](https://github.com/ChocolatineMathou/exercism-kotlin/tree/master/leap)
 * [RNA transcription](https://github.com/ChocolatineMathou/exercism-kotlin/tree/master/rna-transcription)
-* [RNA transcription](https://github.com/ChocolatineMathou/exercism-kotlin/tree/master/pangram)
+* [Pangram](https://github.com/ChocolatineMathou/exercism-kotlin/tree/master/pangram)
+* [Hamming](https://github.com/ChocolatineMathou/exercism-kotlin/tree/master/hamming)

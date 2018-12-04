@@ -29,7 +29,7 @@ class PangramTest {
     fun anotherMissingCharacterX() {
         assertFalse(Pangram.isPangram("five boxing wizards jump quickly at it"))
     }
-    
+
     @Test
     fun withUnderscores() {
         assertTrue(Pangram.isPangram("the_quick_brown_fox_jumps_over_the_lazy_dog"))
